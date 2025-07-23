@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-17-orange" alt="Java" />
-  <img src="https://img.shields.io/badge/Swing-UI–Framework-blue" alt="Swing" />
-  <img src="https://img.shields.io/badge/License-MIT-green" alt="MIT License" />
-</p>
 
 # Library Book Tracker
 
@@ -18,7 +13,6 @@ A desktop application for managing library inventory and circulation, built in J
 * [Data Structures & Algorithms](#data-structures--algorithms)
 * [UI/UX Highlights](#uiux-highlights)
 * [Getting Started](#getting-started)
-* [Usage](#usage)
 * [Acknowledgements](#acknowledgements)
 * [License](#license)
 
@@ -112,8 +106,8 @@ This project was developed as a hands‑on learning endeavor, under the guidance
 ### Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git
-cd YOUR_REPOSITORY_NAME
+git clone https://github.com/21ambuj/Library_tracker_Using_Java
+cd Library_tracker_Using_Java
 ```
 
 ### Compilation & Execution
